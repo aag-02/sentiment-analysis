@@ -3,7 +3,7 @@
 # Overview
 This project delves into the sentiment analysis of restaurant reviews across various cities, employing Python, Pandas, and natural language processing (NLP) techniques. Aimed at uncovering insights into customer satisfaction and its correlation with restaurant ratings, this solo endeavor also explores regional culinary preferences and the impact of service quality on customer experiences.
 
-Overview of Notebooks:
+# Overview of Notebooks:
 
 Sentiment Analysis.ipynb: Lays the foundation by analyzing sentiment trends within the reviews, identifying popular and less popular restaurants based on customer feedback, and exploring the relationship between sentiment and star ratings.
 
